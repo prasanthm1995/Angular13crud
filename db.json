@@ -1,0 +1,68 @@
+{
+  "productList": [
+    {
+      "productName": "Apple",
+      "category": "fruits",
+      "freshness": "Brand New",
+      "price": 150,
+      "comment": "Kashmir Apple",
+      "date": "2022-09-14T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "orange",
+      "category": "fruits",
+      "freshness": "Second Hand",
+      "price": 200,
+      "comment": "Its damage",
+      "date": "2022-09-13T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Bnasdfd",
+      "category": "vegetable",
+      "freshness": "Refurbished",
+      "price": 200,
+      "comment": "sfsadf",
+      "date": "2022-09-15T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "orange",
+      "category": "electronics",
+      "freshness": "Brand New",
+      "price": 1000,
+      "comment": "vcvxc",
+      "date": "2022-09-14T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "phone",
+      "category": "electronics",
+      "freshness": "Brand New",
+      "price": 150000,
+      "comment": "Iphone 13 pro",
+      "date": "2022-09-15T18:30:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "oneplus",
+      "category": "electronics",
+      "freshness": "Brand New",
+      "price": 45000,
+      "comment": "UnBoxing Phone",
+      "date": "2022-09-18T18:30:00.000Z",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
